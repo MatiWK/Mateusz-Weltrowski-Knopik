@@ -12,4 +12,4 @@ In my free time I like to work out at the gym, do acrobatics and meet with my fr
  
 ### How to reach me
 
-<a href="https://www.facebook.com/mati.weltrowskiknopik">Facebook</a>
+<a href="https://www.facebook.com/mati.weltrowskiknopik"><img src="obrazkiReadme/FB.png" width="100" width="100"></a>

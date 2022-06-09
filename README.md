@@ -4,4 +4,4 @@ My name is Mateusz Weltrowski-Knopi. I'm 20 years old and I study computer scien
 I mainly work in C#, Java, HTML, CSS, SQL, Linux and Javascript.
 In my free time I like to work out at the gym, do acrobatics and meet with my friends.
 
-
+<img src="obrazkiReadme/Csharp.png" width="100">

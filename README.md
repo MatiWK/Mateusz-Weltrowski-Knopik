@@ -7,4 +7,6 @@ In my free time I like to work out at the gym, do acrobatics and meet with my fr
 
 ### My skills
 
-<img src="https://github.com/MatiWK/Mateusz-Weltrowski-Knopik/issues/1#issue-1266433155">
+<img src="![C#](https://user-images.githubusercontent.com/100945669/172905483-2a4215fc-eb08-42b8-9727-7665e679b5aa.png)">
+
+

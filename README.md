@@ -5,8 +5,3 @@ I mainly work in C#, Java, HTML, CSS, SQL, Linux and Javascript.
 In my free time I like to work out at the gym, do acrobatics and meet with my friends.
 
 
-### My skills
-
-
-
-<img src="imagez/C#.png" width="100">

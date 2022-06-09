@@ -6,10 +6,8 @@ In my free time I like to work out at the gym, do acrobatics and meet with my fr
 
 ### My skills
 
-<img src="obrazkiReadme/Csharp.png" width="100"> 
-<img src="obrazkiReadme/JS.png" width="100">
-<img src="obrazkiReadme/Java.png" width="100">
-<img src="obrazkiReadme/CSS.png" width="100">
-<img src="obrazkiReadme/Linux.png" width="100">
-<img src="obrazkiReadme/SQL.png" width="100">
-<img src="obrazkiReadme/HTML.png" width="100">
+<img src="obrazkiReadme/Csharp.png" width="200" height="150"> <img src="obrazkiReadme/JS.png" width="150" height="150"> <img src="obrazkiReadme/Java.png" width="100" height="150"> <img src="obrazkiReadme/CSS.png" width="150" height="150">
+
+<img src="obrazkiReadme/Linux.png" width="150" height="150"> <img src="obrazkiReadme/SQL.png" width="150" height="150"> <img src="obrazkiReadme/HTML.png" width="150" height="150">
+ 
+
